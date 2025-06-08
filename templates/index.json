@@ -29,8 +29,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "To the blog",
+            "button_link_1": "shopify://blogs/news/das-ist-ein-beispiel-blog-der-erklaert-wie-krass-dainty-dollitas-nachhaltige-slow-fashion-kollektion-ist",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,6 +44,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/RackMultipart20250518-1782242-yf2agr.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
