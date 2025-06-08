@@ -141,10 +141,10 @@
           "background": "#0e0e10",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#121212",
+          "button": "{{ shop.brand.colors.primary[0].background }}",
           "button_label": "#ffffff",
-          "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "secondary_button_label": "#ffffff",
+          "shadow": "#ffffff"
         }
       },
       "scheme-2": {
