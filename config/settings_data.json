@@ -9,7 +9,9 @@
  */
 {
   "current": {
-    "logo_width": 90,
+    "logo": "shopify://shop_images/dd_logo_white.svg",
+    "logo_width": 110,
+    "favicon": "shopify://shop_images/favicon.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -142,7 +144,7 @@
           "background_gradient": "",
           "text": "#ffffff",
           "button": "{{ shop.brand.colors.primary[0].background }}",
-          "button_label": "{{ shop.brand.colors.primary[0].foreground }}",
+          "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
           "shadow": "#ffffff"
         }
@@ -182,11 +184,11 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "{{ shop.brand.colors.secondary[0].background }}",
+          "background": "#334fb4",
           "background_gradient": "",
-          "text": "{{ shop.brand.colors.primary[0].background }}",
-          "button": "{{ shop.brand.colors.primary[0].background }}",
-          "button_label": "{{ shop.brand.colors.primary[0].foreground }}",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
