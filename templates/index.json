@@ -156,11 +156,12 @@
     },
     "video": {
       "type": "video",
+      "custom_css": [],
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify://files/videos/PB260120.mov",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/PB260122.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
@@ -175,8 +176,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Handmade",
+            "text": "<p>Text about handmade</p>",
             "link_label": "",
             "link": ""
           }
@@ -184,8 +185,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Slow Fashion",
+            "text": "<p>Text about slow fashion</p>",
             "link_label": "",
             "link": ""
           }
@@ -193,8 +194,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Style J/Fashion/Inspirations?",
+            "text": "<p>Text about the styles and fashion</p>",
             "link_label": "",
             "link": ""
           }
