@@ -107,45 +107,6 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "fragile-beauty-forever-caught-in-the-web"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "heart-shapped-bag",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "fragile-beauty-forever-caught-in-the-web"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video": {
       "type": "video",
       "custom_css": [],
@@ -220,7 +181,6 @@
     "image_banner",
     "rich_text",
     "featured_collection",
-    "collage",
     "video",
     "multicolumn"
   ]
