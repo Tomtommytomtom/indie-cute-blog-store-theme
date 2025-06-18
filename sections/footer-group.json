@@ -20,18 +20,10 @@
             "heading": "Quick links",
             "menu": "footer"
           }
-        },
-        "link_list_BtjJBK": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
         }
       },
       "block_order": [
-        "footer-0",
-        "link_list_BtjJBK"
+        "footer-0"
       ],
       "settings": {
         "color_scheme": "scheme-1",
