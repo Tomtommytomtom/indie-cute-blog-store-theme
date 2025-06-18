@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "<ul><li>100% Cotton</li><li>Premium Embroidered Silk!</li></ul>",
+            "content": "<ul><li>100% Cotton</li></ul>",
             "page": ""
           }
         },
