@@ -15,15 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "fsdugfsdfi",
+            "heading": "Dollita Collection",
             "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
           }
         },
         "button": {
@@ -40,11 +33,10 @@
       },
       "block_order": [
         "heading",
-        "text",
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/RackMultipart20250518-1782242-yf2agr.jpg",
+        "image": "shopify://shop_images/banner_2025.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
