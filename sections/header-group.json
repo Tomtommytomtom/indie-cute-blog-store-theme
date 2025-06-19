@@ -17,7 +17,7 @@
         "announcement_PCKex7": {
           "type": "announcement",
           "settings": {
-            "text": "We launched! 5% off on everything for a limited Time",
+            "text": "We launched! 5% off on everything for a limited time",
             "link": ""
           }
         },
@@ -25,7 +25,7 @@
           "type": "announcement",
           "settings": {
             "text": "Sign up to our newsletter to get 10% off on your order!",
-            "link": ""
+            "link": "shopify://pages/newsletter-signup"
           }
         }
       },
