@@ -14,16 +14,24 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
+        "announcement_PCKex7": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our Shop Launch! Get 5% on every Order",
+            "text": "We launched! 5% off on everything for a limited Time",
+            "link": ""
+          }
+        },
+        "announcement_NMiLMM": {
+          "type": "announcement",
+          "settings": {
+            "text": "Sign up to our newsletter to get 10% off on your order!",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement_PCKex7",
+        "announcement_NMiLMM"
       ],
       "settings": {
         "auto_rotate": false,
