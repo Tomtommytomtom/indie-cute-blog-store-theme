@@ -17,14 +17,14 @@
         "announcement_PCKex7": {
           "type": "announcement",
           "settings": {
-            "text": "We launched! 5% off on everything for a limited time",
+            "text": "Welcome! 5% off on everything for a limited time",
             "link": ""
           }
         },
         "announcement_NMiLMM": {
           "type": "announcement",
           "settings": {
-            "text": "Sign up to our newsletter to get 10% off on your order!",
+            "text": "Sign up to my newsletter to get 10% off on your order!",
             "link": "shopify://pages/newsletter-signup"
           }
         }
