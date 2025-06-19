@@ -19,6 +19,13 @@
             "heading_size": "h0"
           }
         },
+        "text_CAMwAN": {
+          "type": "text",
+          "settings": {
+            "text": "Born from Passion for sustainable and slow fashion",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -33,6 +40,7 @@
       },
       "block_order": [
         "heading",
+        "text_CAMwAN",
         "button"
       ],
       "settings": {
@@ -62,7 +70,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Born from Passion for sustainable and slow fashion</p><p>Carefully handmade in cologne using high quality materials such as cotton and recycled fabric!</p>"
+            "text": ""
           }
         }
       },
