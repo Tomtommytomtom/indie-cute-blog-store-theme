@@ -23,14 +23,8 @@
         "heading_bPRq9h": {
           "type": "heading",
           "settings": {
-            "heading": "Maybe you wanna sign  up to my newsletter and get a discount? 👉👈",
+            "heading": "Maybe you wanna sign  up to my newsletter and get a 10% discount? 👉👈",
             "heading_size": "h2"
-          }
-        },
-        "paragraph_4rMeLA": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Sign up to recive a discount code :)</p>"
           }
         },
         "email_form_dpPjUL": {
@@ -40,7 +34,6 @@
       },
       "block_order": [
         "heading_bPRq9h",
-        "paragraph_4rMeLA",
         "email_form_dpPjUL"
       ],
       "name": "t:sections.newsletter.presets.name",
