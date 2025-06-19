@@ -134,20 +134,11 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Handmade",
-            "text": "<p>Text about handmade</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Slow Fashion",
-            "text": "<p>Slow fashion means I make every piece myself from designing the patterns to cutting the fabric and finally sewing everything together with care. Each piece is carefully handmade in my workshop in Cologne.</p>",
+            "title": "Slow Fashion/Handmade",
+            "text": "<p>I make every piece myself from designing the patterns to cutting the fabric and finally sewing everything together with care. Each piece is carefully handmade in my workshop in Cologne.</p>",
             "link_label": "",
             "link": ""
           }
@@ -155,15 +146,14 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Style J/Fashion/Inspirations?",
-            "text": "<p>Text about the styles and fashion</p>",
+            "title": "Inspirations",
+            "text": "<p>My designs are inspired by unique styles like Lolita, Goth, Morute, and Jirai Kei, with eerie influences from Japanese horror games and movies.</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column1",
         "column2",
         "column3"
       ],
