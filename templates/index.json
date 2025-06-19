@@ -55,14 +55,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Born from Passion for sustainable and slow fashion</p><p>Carefully handmade in cologne using high quality materials such as cotton and recycled fabric!</p>"
           }
         }
       },
