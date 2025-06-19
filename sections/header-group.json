@@ -34,7 +34,7 @@
         "announcement_NMiLMM"
       ],
       "settings": {
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "color_scheme": "",
         "show_line_separator": true,
