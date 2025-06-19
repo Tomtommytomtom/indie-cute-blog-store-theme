@@ -23,8 +23,8 @@
         "heading_bPRq9h": {
           "type": "heading",
           "settings": {
-            "heading": "Wait, have you grabbed your 10% Discount yet?",
-            "heading_size": "h1"
+            "heading": "Maybe you wanna sign  up to my newsletter and get a discount? 👉👈",
+            "heading_size": "h2"
           }
         },
         "paragraph_4rMeLA": {
@@ -47,7 +47,7 @@
       "settings": {
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 16,
         "padding_bottom": 52
       }
     },
