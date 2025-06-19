@@ -34,7 +34,7 @@
         "announcement_NMiLMM"
       ],
       "custom_css": [
-        ".announcement-bar {position: sticky;}"
+        ".announcement-bar {position: sticky; top: }"
       ],
       "settings": {
         "auto_rotate": true,
