@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_PCKex7": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome! 5% off on everything for a limited time",
-            "link": ""
-          }
-        },
         "announcement_NMiLMM": {
           "type": "announcement",
           "settings": {
@@ -30,7 +23,6 @@
         }
       },
       "block_order": [
-        "announcement_PCKex7",
         "announcement_NMiLMM"
       ],
       "custom_css": [
