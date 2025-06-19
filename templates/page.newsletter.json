@@ -19,27 +19,12 @@
     "newsletter_X4MC3y": {
       "type": "newsletter",
       "blocks": {
-        "heading_rMeX7V": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_tMwqtK": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
-          }
-        },
         "email_form_rp3gq6": {
           "type": "email_form",
           "settings": {}
         }
       },
       "block_order": [
-        "heading_rMeX7V",
-        "paragraph_tMwqtK",
         "email_form_rp3gq6"
       ],
       "name": "t:sections.newsletter.presets.name",
