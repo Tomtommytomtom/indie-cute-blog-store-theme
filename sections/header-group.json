@@ -33,6 +33,9 @@
         "announcement_PCKex7",
         "announcement_NMiLMM"
       ],
+      "custom_css": [
+        ".utility-bar {position: sticky;}"
+      ],
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 5,
