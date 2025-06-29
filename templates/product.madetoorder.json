@@ -45,6 +45,15 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "collapsible_tab_wC9mai": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Made To Order",
+            "icon": "truck",
+            "content": "<p><strong>Please note:</strong> This item is made to order especially for you. As a result, it requires additional time before shipping and will take longer to arrive than in-stock products. Thank you for your patience!</p>",
+            "page": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -70,6 +79,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "collapsible_tab_wC9mai",
         "buy_buttons",
         "description",
         "share"
