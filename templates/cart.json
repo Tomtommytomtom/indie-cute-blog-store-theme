@@ -36,11 +36,43 @@
         "heading_bPRq9h",
         "email_form_dpPjUL"
       ],
+      "disabled": true,
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "color_scheme": "",
         "full_width": true,
         "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_7WJwR6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KCKGrp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Please Note:",
+            "heading_size": "h2"
+          }
+        },
+        "text_cdmCqH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am currently on vacation, orders will be fulfilled end of august! Thanks alot for your patience &lt;3!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KCKGrp",
+        "text_cdmCqH"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -98,6 +130,7 @@
   "order": [
     "cart-items",
     "newsletter_nTLDwN",
+    "rich_text_7WJwR6",
     "cart-footer",
     "featured-collection"
   ]
