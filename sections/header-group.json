@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_JdtdaL": {
+          "type": "announcement",
+          "settings": {
+            "text": "please note: i am on vacation! orders will be fulfilled end of august!",
+            "link": ""
+          }
+        },
         "announcement_NMiLMM": {
           "type": "announcement",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "announcement_JdtdaL",
         "announcement_NMiLMM"
       ],
       "custom_css": [
