@@ -15,21 +15,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Dollita Collection",
+            "heading": "𝙲𝚊𝚞𝚐𝚑𝚝 𝚒𝚗 𝚊 𝚠𝚎𝚋 𝚌𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗",
             "heading_size": "h0"
           }
         },
         "text_CAMwAN": {
           "type": "text",
           "settings": {
-            "text": "Born from Passion for sustainable and slow fashion",
+            "text": "𝙱𝚘𝚛𝚗 𝚏𝚛𝚘𝚖 𝙿𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚜𝚞𝚜𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚜𝚕𝚘𝚠 𝚏𝚊𝚜𝚑𝚒𝚘𝚗",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
+            "button_label_1": "Shop here",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -120,14 +120,14 @@
       "custom_css": [],
       "settings": {
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": true,
         "video": "shopify://files/videos/PB260122.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
+        "color_scheme": "scheme-5",
+        "padding_top": 32,
         "padding_bottom": 36
       }
     },
