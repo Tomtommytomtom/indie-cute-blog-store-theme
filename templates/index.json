@@ -92,9 +92,9 @@
       "settings": {
         "collection": "all",
         "products_to_show": 8,
-        "title": "Featured products",
+        "title": "♬·¯·♪·¯·♫¸¸¸♫·¯·♪¸♩·¯·♬¸¸¸¸♬·¯·♪·¯·♫¸¸¸♫·¯·♪¸♩·¯·♬¸¸¸¸♬·¯·♪·¯·♫¸¸¸♫·¯·♪¸♩·¯·♬",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>͓̽S͓͓̽̽h͓͓̽̽o͓͓̽̽p͓̽ ͓̽t͓͓̽̽h͓͓̽̽e͓̽ ͓̽l͓̽a͓͓̽̽t͓͓̽̽e͓͓̽̽s͓͓̽̽t͓̽ ͓̽d͓͓̽̽r͓͓̽̽o͓͓̽̽p͓̽ &lt;͓̽3͓̽</p>",
         "show_description": false,
         "description_style": "body",
         "columns_desktop": 4,
