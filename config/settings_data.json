@@ -10,7 +10,7 @@
 {
   "current": {
     "logo": "shopify://shop_images/dd_logo_white.svg",
-    "logo_width": 110,
+    "logo_width": 160,
     "favicon": "shopify://shop_images/favicon.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -20,6 +20,7 @@
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
+    "animations_hover_elements": "default",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
@@ -190,7 +191,7 @@
           "button": "{{ shop.brand.colors.primary[0].background }}",
           "button_label": "#aba5a5",
           "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "shadow": "#aba5a5"
         }
       }
     }
@@ -380,5 +381,14 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Eigener Cursor (optional): PNG/SVG 32x32 mit transparenter Fläche */html {cursor: url('{{\"cursor-star.png\" | asset_url }}') 16 16, auto; /* entferne die Zeile, wenn du keinen eigenen Cursor willst */}",
+      "/* Container für die Sterne */.cursor-trail {position: fixed; inset: 0; pointer-events: none; z-index: 99999;}",
+      "/* Sternchen-Element */.cursor-star {position: absolute; width: 10px; height: 10px; transform: translate(-50%, -50%); will-change: transform, opacity; opacity: 0.9;}",
+      "/* Animation: leicht hochdriften + ausblenden */@keyframes starFloat {to {transform: translate(-50%, calc(-50% - 12px)) rotate(25deg) scale(0.8); opacity: 0; }}",
+      "/* Respect „Reduce Motion“ */@media (prefers-reduced-motion: reduce) {.cursor-trail, .cursor-star {display: none !important; }}"
+    ]
   }
 }
