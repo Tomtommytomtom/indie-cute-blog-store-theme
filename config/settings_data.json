@@ -189,7 +189,7 @@
           "background_gradient": "",
           "text": "{{ shop.brand.colors.primary[0].background }}",
           "button": "{{ shop.brand.colors.primary[0].background }}",
-          "button_label": "#aba5a5",
+          "button_label": "#615e5e",
           "secondary_button_label": "#ffffff",
           "shadow": "#aba5a5"
         }
@@ -385,10 +385,10 @@
   "platform_customizations": {
     "custom_css": [
       "/* Eigener Cursor (optional): PNG/SVG 32x32 mit transparenter Fläche */html {cursor: url('{{\"cursor-star.png\" | asset_url }}') 16 16, auto; /* entferne die Zeile, wenn du keinen eigenen Cursor willst */}",
-      "/* Container für die Sterne */.cursor-trail {position: fixed; inset: 0; pointer-events: none; z-index: 99999;}",
-      "/* Sternchen-Element */.cursor-star {position: absolute; width: 10px; height: 10px; transform: translate(-50%, -50%); will-change: transform, opacity; opacity: 0.9;}",
-      "/* Animation: leicht hochdriften + ausblenden */@keyframes starFloat {to {transform: translate(-50%, calc(-50% - 12px)) rotate(25deg) scale(0.8); opacity: 0; }}",
-      "/* Respect „Reduce Motion“ */@media (prefers-reduced-motion: reduce) {.cursor-trail, .cursor-star {display: none !important; }}"
+      " /* Container für die Sterne */.cursor-trail {position: fixed; inset: 0; pointer-events: none; z-index: 99999;}",
+      " /* Sternchen-Element */.cursor-star {position: absolute; width: 10px; height: 10px; transform: translate(-50%, -50%); will-change: transform, opacity; opacity: 0.9;}",
+      " /* Animation: leicht hochdriften + ausblenden */@keyframes starFloat {to {transform: translate(-50%, calc(-50% - 12px)) rotate(25deg) scale(0.8); opacity: 0; }}",
+      " /* Respect „Reduce Motion“ */@media (prefers-reduced-motion: reduce) {.cursor-trail, .cursor-star {display: none !important; }}"
     ]
   }
 }
